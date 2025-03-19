@@ -13,7 +13,7 @@ You can download and install Java from [this link](https://adoptopenjdk.net/).
 ### 2. Download and Set Up the Project
 
 1. **Download the ZIP**  
-   - Go to the [GitHub Repository](https://github.com).
+   - Go to the [GitHub Repository](https://github.com/dipalimandaliksau/RailwayManagementApp).
    - Click on "Code" and select "Download ZIP".
    - Extract the downloaded ZIP file.
    - Open the project in an IDE.
