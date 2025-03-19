@@ -18,14 +18,20 @@ You can download and install Java from [this link](https://adoptopenjdk.net/).
    - Extract the downloaded ZIP file.
    - Open the project in an IDE.
 
-2. **Open Spring Tool Suite (STS) or any preferred Java IDE**  
+2. **Open in an IDE**
+   - Open **Spring Tool Suite (STS)** or any preferred Java IDE.
    - Import the project as a **Maven project**.
 
-### Run Maven Commands (Before Running the Application)
+3. **Run Maven Commands (Before Running the Application)
 
 #### From Terminal:
 1. Open a terminal inside the project directory and execute the following commands:
-   
+
    ```bash
    mvn clean
    mvn install
+#### From IDE (Spring Tool Suite - STS):
+1. Right-click on the project in the **Project Explorer**.
+2. Navigate to **Run As > Maven clean** to clean the project.
+3. Navigate to **Run As > Maven install** to install dependencies.
+4. Right-click on the project and select **Maven > Update Project** to ensure dependencies are correctly resolved.
